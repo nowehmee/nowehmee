@@ -39,16 +39,7 @@
 <p align="center">
   <a href="https://www.sketchup.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sketchup-Light.svg" width="60" height="60" alt="SketchUp"/>
-  </a>
-  <a href="http://www.codeblocks.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Code::Blocks_logo.svg" width="60" height="60" alt="Code::Blocks"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="60" height="60" alt="Adobe Photoshop"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
-    <img src="https://img.icons8.com/color/512/adobe-lightroom--v1.png" width="60" height="60" alt="Adobe Lightroom"/>
-  </a>
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="60" height="60" alt="Adobe Photoshop"/>
 </p>
 
 ---
