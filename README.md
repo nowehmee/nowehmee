@@ -31,8 +31,6 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
   </a>
-</p>
-
 ---
 
 ## 🧰 Software & Tools
