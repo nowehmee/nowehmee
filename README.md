@@ -1,5 +1,12 @@
-◽Hi! I am Noemi Alon
-◽Third-year Bachelor of Science in Computer Science
-◽Major in Intelligent Systems
-Advancing knowledge in artificial intelligence and intelligent technologies
-“Innovating through intelligence and technology.”
+██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
+██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
+╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+                                                              
+💻 Hi! I am Noemi Alon
+🎓 Third-year Computer Science student with a focus on real-world applications.
+🚀 Constantly learning and exploring new technologies.
+🔧 Building projects in Java, Python, and C#.
+📚 Dedicated to improving problem-solving and software engineering skills.
