@@ -26,26 +26,14 @@
 
 ## 🧰 Software & Tools
 
-<p align="center">
-  <!-- Code::Blocks -->
-  <a href="http://www.codeblocks.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CodeBlocks-Light.svg" width="60" height="60" alt="Code::Blocks"/>
-  </a>
-
   <!-- SketchUp -->
+  <p align="center">
   <a href="https://www.sketchup.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sketchup-Light.svg" width="60" height="60" alt="SketchUp"/>
+
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="60" height="60" alt="Adobe Photoshop"/>
+  </a>
+  <br>
   </a>
 
-  <!-- DOSBox -->
-  <a href="https://www.dosbox.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DosBox-Light.svg" width="60" height="60" alt="DOSBox"/>
-  </a>
-
-  <!-- Command Prompt -->
-  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CommandPrompt-Light.svg" width="60" height="60" alt="Command Prompt"/>
-  </a>
-</p>
-  </a>
-</p>
